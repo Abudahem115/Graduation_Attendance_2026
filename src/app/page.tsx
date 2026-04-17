@@ -40,7 +40,8 @@ export default async function Home() {
           เข้าร่วมกิจกรรม
         </h1>
         <p className="text-lg text-white/80 drop-shadow-sm mb-6">
-          ลงทะเบียนเข้าร่วมงานบายเนียร์ ประจำปี 2569
+          ลงทะเบียนเข้าร่วมงานบายเนียร์ 
+          ประจำปี 2569
         </p>
       </div>
 
